@@ -1,0 +1,10 @@
+#
+# fips-pystring
+#
+---
+exports:
+    header-dirs:
+        - pystring
+    modules:
+        pystring: .
+
